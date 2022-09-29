@@ -1,0 +1,47 @@
+#MainHeading {
+  background-color: black;
+  color: white;
+  margin-top: 1px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+}
+.heading {
+  background-color: rgba(190, 187, 53, 0.819);
+  color: rgb(7, 20, 63);
+  margin-top: 1px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 320px;
+  padding: 10px;
+  border: 5px solid rgb(126, 26, 26);
+}
+#iV {
+  background-color: rgba(141, 195, 180, 0.819);
+  color: rgb(7, 20, 63);
+  margin-top: 1px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 320px;
+  padding: 10px;
+  border: 5px solid rgb(126, 26, 26);
+}
+#iV4SumOfAllDigits {
+  background-color: rgba(141, 195, 180, 0.819);
+  color: rgb(7, 20, 63);
+  margin-top: 1px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 320px;
+  padding: 10px;
+  border: 5px solid rgb(126, 26, 26);
+}
+/* #list {
+    color: rgb(1, 5, 17);
+    margin: auto;
+    width: 320px;
+    padding: 10px;
+  } */
